@@ -1,0 +1,3 @@
+ignore-paths:
+    - doc-src
+    - libmproxy/contrib
